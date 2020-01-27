@@ -1,0 +1,8 @@
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\bin\Debug\netcoreapp2.1\ShoppingCart.DataModel.deps.json
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\bin\Debug\netcoreapp2.1\ShoppingCart.DataModel.dll
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\bin\Debug\netcoreapp2.1\ShoppingCart.DataModel.pdb
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\obj\Debug\netcoreapp2.1\ShoppingCart.DataModel.csproj.CoreCompileInputs.cache
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\obj\Debug\netcoreapp2.1\ShoppingCart.DataModel.AssemblyInfoInputs.cache
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\obj\Debug\netcoreapp2.1\ShoppingCart.DataModel.AssemblyInfo.cs
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\obj\Debug\netcoreapp2.1\ShoppingCart.DataModel.dll
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.DataModel\obj\Debug\netcoreapp2.1\ShoppingCart.DataModel.pdb

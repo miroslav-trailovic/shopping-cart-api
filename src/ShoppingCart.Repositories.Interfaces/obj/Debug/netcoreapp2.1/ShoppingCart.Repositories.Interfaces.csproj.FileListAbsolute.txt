@@ -1,0 +1,12 @@
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\bin\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.deps.json
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\bin\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.dll
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\bin\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.pdb
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\bin\Debug\netcoreapp2.1\ShoppingCart.DataModel.dll
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\bin\Debug\netcoreapp2.1\ShoppingCart.DataModel.pdb
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.csprojAssemblyReference.cache
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.AssemblyInfoInputs.cache
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.AssemblyInfo.cs
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.csproj.CopyComplete
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.dll
+D:\ShoppingCart.Api\v2\Kod v2\ShoppingCart.Api\src\ShoppingCart.Repositories.Interfaces\obj\Debug\netcoreapp2.1\ShoppingCart.Repositories.Interfaces.pdb
