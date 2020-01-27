@@ -1,0 +1,237 @@
+{
+	"info": {
+		"_postman_id": "46b7c27f-9353-4357-8d4b-ef603c427db2",
+		"name": "ShoppingCart",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:51976/api/cartitem",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CustomerId\" : 1,\n  \"Quantity\" : 30,\n  \"DateCreated\": \"2019/02/24\",\n  \"ArticleId\": \"1\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/cartitem",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"cartitem"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/cartitem/4",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/cartitem/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"cartitem",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/customer/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/customer/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"customer",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/customer?id=1&promotionCode=ABC123",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/customer?id=1&promotionCode=ABC123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"customer"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						},
+						{
+							"key": "promotionCode",
+							"value": "ABC123"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/cartitem/10",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/cartitem/10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"cartitem",
+						"10"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/cartitem",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"CustomerId\" : 1,\n  \"DateCreated\": \"2019/02/24\",\n  \"ArticleId\": \"1\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/cartitem",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"cartitem"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/customer/2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/customer/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"customer",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51976/api/customer?id=2&promotionCode=ABC123",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:51976/api/customer?id=2&promotionCode=ABC123",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51976",
+					"path": [
+						"api",
+						"customer"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2"
+						},
+						{
+							"key": "promotionCode",
+							"value": "ABC123"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
